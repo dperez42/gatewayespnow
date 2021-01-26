@@ -1,0 +1,9 @@
+#define PIN_SVC 13                     
+#define PIN_RED 12                       
+#define PIN_GREEN 14                      
+#define PIN_WIFI 27                       
+#define PIN_BUTTON 26
+#define PIN_BUZZER 25
+#define PIN_RELAY 33
+#define PIN_VENT 32
+#define DISPLAY_OK true
